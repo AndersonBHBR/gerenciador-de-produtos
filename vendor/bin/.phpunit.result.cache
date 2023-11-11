@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ProdutosTest::testAtualizarProdutoExistente":4,"ProdutosTest::testExcluirProdutoExistente":4},"times":{"ProdutosTest::testListarProdutosComPaginacao":0.056,"ProdutosTest::testCriarNovoProduto":0.012,"ProdutosTest::testAtualizarProdutoExistente":0.005,"ProdutosTest::testExcluirProdutoExistente":0.004}}
