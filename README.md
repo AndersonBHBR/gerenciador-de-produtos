@@ -33,7 +33,7 @@ Observações:
 Exemplo de retorno de um cadastro paginado:
 
 Copiar código
-{
+<script>{
     "pagina_atual": 1,
     "total_paginas": 5,
     "total_registros": 25,
@@ -53,6 +53,6 @@ Copiar código
             "preco": 20.99,
             "quantidade": 200
         }
-
+	    </script>
 	
 
